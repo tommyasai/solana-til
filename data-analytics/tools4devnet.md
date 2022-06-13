@@ -1,7 +1,7 @@
 The Result of My Quick Research on Data Analysis Tools for Solana (Devnet)
 
 # Dune
-- Use SQL (PostgreSQL) to query
+Query Language: SQL (PostgreSQL)
 ## Pros
 - Great UI to make nice dashboards
 - Several kinds of charts can be created
@@ -11,7 +11,7 @@ The Result of My Quick Research on Data Analysis Tools for Solana (Devnet)
 - No Solana Devnet Support
 
 # BitQuery
-- Use GraphQL to query
+Query Language: GraphQL
 ## Pros
 - Widely Used and support lots of chains
 ## Cons
@@ -19,10 +19,10 @@ The Result of My Quick Research on Data Analysis Tools for Solana (Devnet)
 - Cannot create beautiful dashboards like Dune
 
 # Vybe Network
-- Use GraphQL (VybeQL) to query
-- Solana specific data and infrastructure provider
+Query Language: GraphQL (VybeQL)  
+Solana specific data and infrastructure provider
 ## Pros
-- Got $10.5M invenstment by FTX this month
+- Got $10.5M invenstment by FTX this month  
   https://alexablockchain.com/vybe-network-raises-10-5m-series-a-led-by-ftx/
 - UI is simple and easy to understand
 ## Cons
@@ -31,11 +31,11 @@ The Result of My Quick Research on Data Analysis Tools for Solana (Devnet)
 - Relatively new and not widely used (Only about 300 members in its Discord server)
   
 # Aleph
-- Use GraphQL to query
+Query Language: GraphQL (VybeQL)
 ## Pros
 - Low catch up cost as it's cross chain tool
 - Fully decentralized architecture
-- Raised $10M in January this year
+- Raised $10M in January this year  
   https://www.coindesk.com/business/2022/01/20/alephim-raises-10m-to-compete-with-amazons-storage-and-computing-service/
 
 ## Cons
